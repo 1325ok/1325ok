@@ -1,9 +1,10 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&desc=🇰🇷%20Developer&color=2774ff&text=1325OK&section=footer&fontColor=FFFFFF" />
-## 안녕하세요👋
-1325OK의 공개용 저장소 깃허브에 오신 것을 환영합니다.    
-비공개 저장소는 자체구축 깃에 보관되어 이 곳에서 찾아 볼 수 없어요!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&desc=🇰🇷%20Developer&color=2774ff&text=1325OK&section=footer&fontColor=FFFFFF" /><br/>
+<h2>안녕하세요👋</h2><br/>
+  <hr/>
+1325OK의 공개용 저장소 깃허브에 오신 것을 환영합니다.    <br/>
+비공개 저장소는 자체구축 깃에 보관되어 이 곳에서 찾아 볼 수 없어요!<br/>
 
 <h3 align="center">✅ 완료 ✅</h3>
 <div align="center">
@@ -12,7 +13,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp   
   <img src="https://img.shields.io/badge/C%23-8A2BE2" />&nbsp   
 </div>     
-                
+<br/>
 <h3 align="center">📖 학습 중 📖</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp   
