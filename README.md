@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp   
-  <img src="https://img.shields.io/badge/C#-8A2BE2" />&nbsp   
+  <img src="https://img.shields.io/badge/C%23-8A2BE2" />&nbsp   
 </div>     
                 
 <h3 align="center">📖 학습 중 📖</h3>
