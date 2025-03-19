@@ -1,8 +1,7 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&desc=🇰🇷%20Developer&color=2774ff&text=1325OK&section=footer&fontColor=FFFFFF" /><br/>
-<h2>안녕하세요👋</h2><br/>
-  <hr/>
+<h2>안녕하세요👋</h2>
 1325OK의 공개용 저장소 깃허브에 오신 것을 환영합니다.    <br/>
 비공개 저장소는 자체구축 깃에 보관되어 이 곳에서 찾아 볼 수 없어요!<br/>
 
