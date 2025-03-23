@@ -7,9 +7,9 @@
 <h3 align="center">🌐 소통 🌐</h3>
 <div align="center">
   
-  <a href="https://blog.1325ok.com"><img src="https://img.shields.io/badge/Blog-8A2BE2?style=for-the-badge" /></a>&nbsp
-  <a herf="https://discord.gg/CMTUExPaWg"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge" /></a>&nbsp
-  <a herf="https://x.com/@1325ok_"><img src="https://img.shields.io/badge/X-black?style=for-the-badge" /></a>&nbsp
+  <a href="https://blog.1325ok.com"><img src="https://img.shields.io/badge/Blog-8A2BE2?style=for-the-badge" /></a>&nbsp;
+  <a herf="https://discord.gg/CMTUExPaWg"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge" /></a>&nbsp;
+  <a herf="https://x.com/@1325ok_"><img src="https://img.shields.io/badge/X-black?style=for-the-badge" /></a>&nbsp;
   <a herf="mailto:1325ok.game@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" /></a>  
 </div>
 <h3 align="center">✅ 완료 ✅</h3>
