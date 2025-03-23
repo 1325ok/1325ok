@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge" />&nbsp   
-  <img src="https://img.shields.io/badge/NodeJS-3670A0?style=for-the-badge" />&nbsp   
-  <img src="https://img.shields.io/badge/NextJS-3670A0?style=for-the-badge" />&nbsp   
   <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge" /> 
 </div>   
 <h3 align="center">📖 학습 중 📖</h3>
