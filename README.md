@@ -5,7 +5,7 @@
 <h2>Hello World!👋</h2>
 Welcome to 1325OK's public GitHub repository.    <br/>
 🇰🇷I'm from South Korea.<br/>
-불편함에서 아이디어를, 코드해서 해결책을 찾습니다.<br/>
+불편함에서 아이디어를, 코드에서 해결책을 찾습니다.<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1325ok&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 <h3 align="left">🌐 Communicate</h3>
 <div align="left">
