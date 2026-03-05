@@ -19,11 +19,11 @@ Welcome to 1325OK's public GitHub repository.    <br/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge" />&nbsp   
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge" />&nbsp   
   <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge" /> 
 </div>   
 <h3 align="left">📖 Learning</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge" />&nbsp   
+<div align="left">   
   <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge" />&nbsp    
   <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=for-the-badge" />
 </div>   
