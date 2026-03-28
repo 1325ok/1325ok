@@ -9,8 +9,8 @@ Welcome to 1325OK's public GitHub repository.    <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1325ok&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 <h3 align="left">🌐 Communicate</h3>
 <div align="left">
-  <span>Blog: </span><a href="https://blog.1325ok.com">https://1325ok.com</a><br>
-  <span>Site: </span><a href="https://discord.gg/CMTUExPaWg">https://discord.gg/CMTUExPaWg</a><br>
+  <span>Blog: </span><a href="https://blog.1325ok.com">https://blog.1325ok.com</a><br>
+  <span>Site: </span><a href="https://discord.gg/CMTUExPaWg">https://1325ok.com</a><br>
   <span>X: </span><a href="https://x.com/@1325ok_">https://x.com/@1325ok_</a><br>
   <span>Email: </span><a href="mailto:1325ok.help@gmail.com">1325ok.help@gmail.com</a>  
 </div>
