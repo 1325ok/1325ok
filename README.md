@@ -6,6 +6,12 @@
 <b>불편함에서 아이디어를, 코드에서 해결책을 찾습니다.</b><br/>
 Welcome to 1325OK's public GitHub repository.    <br/>
 I'm from South Korea. 🇰🇷<br/><br/>
+<p align="center">
+  <small>
+    <i>일부 개인 프로젝트는 홈 서버의 깃에 올라와 있어 GitHub 활동에 나타나지 않을 수 있습니다.</i><br>
+    <i>Some personal projects are hosted on my home server and may not appear in my GitHub activity.</i>
+  </small>
+</p><br/><br/>
 <img src="https://img.shields.io/badge/BUILT_WITH-%E2%9D%A4-D9773B?style=for-the-badge" />
 <h3 align="left">🌐 Communicate</h3>
 <div align="left">
