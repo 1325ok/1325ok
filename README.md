@@ -5,12 +5,13 @@
 <h2>Hello World!👋</h2>
 <b>불편함에서 아이디어를, 코드에서 해결책을 찾습니다.</b><br/>
 Welcome to 1325OK's public GitHub repository.    <br/>
-I'm from South Korea. 🇰🇷<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1325ok&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+I'm from South Korea. 🇰🇷<br/><br/>
+<img src="https://img.shields.io/badge/BUILT_WITH-%E2%9D%A4-D9773B?style=for-the-badge" />
 <h3 align="left">🌐 Communicate</h3>
 <div align="left">
   <span>Site: </span><a href="https://discord.gg/CMTUExPaWg">https://1325ok.com</a><br>
   <span>Blog: </span><a href="https://blog.1325ok.com">https://blog.1325ok.com</a><br>
+  <span>Instagram: </span><a href="https://www.instagram.com/1325ok_">https://www.instagram.com/1325ok_</a><br>
   <span>X: </span><a href="https://x.com/@1325ok_">https://x.com/@1325ok_</a><br>
   <span>Email: </span><a href="mailto:1325ok.help@gmail.com">1325ok.help@gmail.com</a>  
 </div>
