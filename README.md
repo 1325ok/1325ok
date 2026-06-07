@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&desc=🇰🇷%20Developer&color=2774ff&text=1325OK&section=footer&fontColor=FFFFFF" /><br/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=blur&height=410&desc=🇰🇷%20Developer&color=2774ff&text=1325OK&section=footer&fontColor=FFFFFF" /><br/>
 </div>
 <div align="left">
 <h2>Hello World!👋</h2>
@@ -29,12 +29,14 @@ I'm from South Korea. 🇰🇷<br/><br/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/Tailwind CSS-00979D?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge" />&nbsp
   <!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge" />&nbsp -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/React-3670A0?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge" />
@@ -48,6 +50,7 @@ I'm from South Korea. 🇰🇷<br/><br/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" />&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" /><br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logoColor=black" />&nbsp
